@@ -24,11 +24,22 @@ This project was developed as a commissioned website for a local Filipino delica
 
 ## 🌐 Live Preview
 
-[🔗 View the website on Netlify](#) *(Add link after deployment)*
+https://jerielspecialchicharon.netlify.app/
 
 ## 📸 Screenshots
 
-> Coming soon — once live deployment is available.
+<img width="1897" height="1198" alt="herop" src="https://github.com/user-attachments/assets/9fd8889a-b17c-4194-8661-3a65a8530857" />
+
+<img width="1897" height="1198" alt="2ndp" src="https://github.com/user-attachments/assets/05d5b15a-7e61-4e42-b678-4407f19980e6" />
+
+<img width="1898" height="1017" alt="3rdp" src="https://github.com/user-attachments/assets/4943650a-633b-4a12-bac2-d410e258378b" />
+
+<img width="1900" height="1138" alt="4thp" src="https://github.com/user-attachments/assets/d728f8f5-2f03-48fe-a698-65cd7d2cf5cf" />
+
+<img width="1900" height="1071" alt="footer" src="https://github.com/user-attachments/assets/526996f6-2b3c-4f0c-ab68-c1069b6218b0" />
+
+<img width="1897" height="1198" alt="purchase" src="https://github.com/user-attachments/assets/a13ce006-e385-4286-8978-22c7a6bdbc82" />
+
 
 ## 🙋‍♀️ About the Developer
 
